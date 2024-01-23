@@ -125,10 +125,10 @@ server {
 * postgres:14
 
 # Odoo 14 screenshots
-
-<img src="screenshots/odoo-14-welcome-screenshot.png" width="50%">
-
-<img src="screenshots/odoo-14-apps-screenshot.png" width="100%">
+![odoo-14-welcome-docker](screenshots/odoo-14-welcome-screenshot.png)
+![odoo-14-apps-docker](screenshots/odoo-14-apps-screenshot.png)
+![odoo-14-sales](screenshots/odoo-14-sales-screen.png)
+![odoo-14-form](screenshots/odoo-14-sales-form.png)
 
 <
 
